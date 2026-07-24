@@ -1,0 +1,14 @@
+# Runtime output from organizer.sh - not part of the submission
+archive/
+organizer.log
+
+# Local test data - not a required submission file for this lab
+grades.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
